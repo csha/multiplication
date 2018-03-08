@@ -4,6 +4,7 @@ There is only 1 file: multiplication.java
 Explanation of file:
 
 1 Function: public static int[] doMultiply(int[] arrayOfDigits1, int[] arrayOfDigits2)
+
 1 Main method: serves as quick testing. Calls doMultiply with different arrays and prints result. 
 
 Function:
